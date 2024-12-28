@@ -7,8 +7,3 @@
 - phone:+256742836892 or +256726128513
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Football, athletics ...
-
-<!---
-JORO-NIMO/JORO-NIMO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
