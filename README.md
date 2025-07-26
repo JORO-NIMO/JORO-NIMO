@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JORO-NIMO
 - 👀 I’m interested in ML and automation of tasks 
 - 💞️ I’m looking to collaborate on hardware based programming 
-- 📫 How to reach me: on X @JORONIMO50094, instagram @campusbuzz1,
 - email:2024bse069@std.must.ac.ug
 - phone:+256742836892 or +256726128513
 - 😄 Pronouns: Mr.
