@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JORO-NIMO
+
 - 👀 I’m interested in ML and automation of tasks 
 - 💞️ I’m looking to collaborate on hardware based programming 
 - email:2024bse069@std.must.ac.ug
